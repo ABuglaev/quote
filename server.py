@@ -32,4 +32,4 @@ def quote():
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int("8081"), debug=True)
 
-# some changes to test auto-build on dockerhub
+# changes to test auto-build on dockerhub 0
